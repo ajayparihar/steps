@@ -1,0 +1,51 @@
+/* Author: Bheb Developer */
+/* Date: 17-Nov-2023 */
+
+body {
+    background-color: #232633;
+    color: #b4bcc0;
+    font-family: 'Arial', sans-serif;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 5% 10%;
+}
+
+header {
+    background-color: #3498db;
+    padding: 1em;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: #ffffff;
+    background-color: #3498db;
+    display: block;
+    font-size: 2.4em;
+}
+
+main {
+    padding: 2em;
+}
+
+ol {
+    list-style-type: decimal;
+    padding-left: 1em;
+    font-size: 1.2em;
+}
+
+li {
+    font-size: 1.1em;
+    border-bottom: 1px solid #ddd; /* Add a light horizontal line */
+    padding-bottom: 0.5em; /* Adjust spacing after the line */
+    margin-bottom: 1em; /* Adjust overall margin after each step */
+}
+
+a {
+    color: #4fa3ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
